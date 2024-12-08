@@ -234,20 +234,6 @@
             <mxRectangle width="220" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qLHiAgBqazquYbQqxU5z-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERoneToMany;startFill=0;endArrow=ERmandOne;endFill=0;entryX=0.01;entryY=0.747;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="C-vyLk0tnHw3VtMMgP7b-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="372" y="391.5" />
-            </Array>
-            <mxPoint x="290" y="392.8221989215099" as="sourcePoint" />
-            <mxPoint x="452" y="398.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qLHiAgBqazquYbQqxU5z-59" value="linked" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qLHiAgBqazquYbQqxU5z-51" vertex="1" connectable="0">
-          <mxGeometry x="-0.0875" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qLHiAgBqazquYbQqxU5z-28" value="Announcement" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="40" y="300" width="250" height="190" as="geometry" />
         </mxCell>
