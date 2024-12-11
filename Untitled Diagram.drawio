@@ -492,6 +492,24 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ggzQYFEGuX9ROKaaKWbB-1" value="1.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="107.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggzQYFEGuX9ROKaaKWbB-2" value="1.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggzQYFEGuX9ROKaaKWbB-3" value="1.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggzQYFEGuX9ROKaaKWbB-4" value="1.4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="318" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggzQYFEGuX9ROKaaKWbB-5" value="1.5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="267.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggzQYFEGuX9ROKaaKWbB-6" value="1.6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
