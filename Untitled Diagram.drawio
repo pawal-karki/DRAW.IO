@@ -114,11 +114,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sDaLeNxkE3oWeTUwoX5g-63" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sDaLeNxkE3oWeTUwoX5g-62" vertex="1" connectable="0">
-          <mxGeometry x="-0.1395" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sDaLeNxkE3oWeTUwoX5g-64" value="Receive Sales Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sDaLeNxkE3oWeTUwoX5g-62" vertex="1" connectable="0">
           <mxGeometry x="-0.1062" relative="1" as="geometry">
             <mxPoint as="offset" />
