@@ -164,7 +164,7 @@
         <mxCell id="yozoq3qJvYod0-rAo0nc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yozoq3qJvYod0-rAo0nc-8" target="yozoq3qJvYod0-rAo0nc-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="455" y="440" />
+              <mxPoint x="440" y="440" />
               <mxPoint x="287" y="440" />
             </Array>
           </mxGeometry>
@@ -271,14 +271,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yozoq3qJvYod0-rAo0nc-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.771;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yozoq3qJvYod0-rAo0nc-59" target="yozoq3qJvYod0-rAo0nc-8" edge="1">
+        <mxCell id="yozoq3qJvYod0-rAo0nc-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.771;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.395;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="yozoq3qJvYod0-rAo0nc-50" target="yozoq3qJvYod0-rAo0nc-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="911" y="460" />
+              <mxPoint x="474" y="460" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yozoq3qJvYod0-rAo0nc-69" value="request suppiler/customer info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="yozoq3qJvYod0-rAo0nc-68" vertex="1" connectable="0">
+        <mxCell id="yozoq3qJvYod0-rAo0nc-69" value="request supplier info like phone no, name, address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="yozoq3qJvYod0-rAo0nc-68" vertex="1" connectable="0">
           <mxGeometry x="-0.2238" y="1" relative="1" as="geometry">
-            <mxPoint x="-14" y="-10" as="offset" />
+            <mxPoint x="-52" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yozoq3qJvYod0-rAo0nc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.831;entryY=-0.081;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" parent="1" source="yozoq3qJvYod0-rAo0nc-70" target="yozoq3qJvYod0-rAo0nc-8" edge="1">
@@ -351,6 +355,19 @@
         </mxCell>
         <mxCell id="fj2DXGaCCyqh_snBY82H-4" value="Payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="891" y="218.67000000000002" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fj2DXGaCCyqh_snBY82H-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.571;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yozoq3qJvYod0-rAo0nc-38" target="yozoq3qJvYod0-rAo0nc-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="690" />
+              <mxPoint x="460" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj2DXGaCCyqh_snBY82H-9" value="request customer info link name , phone no , address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="fj2DXGaCCyqh_snBY82H-8">
+          <mxGeometry x="-0.4651" y="2" relative="1" as="geometry">
+            <mxPoint x="72" y="-143" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
