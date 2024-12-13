@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="GkMcADFs1Jpfnip-NJ-y">
-    <mxGraphModel dx="2216" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2799" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d265B7_nfDngWB5c3X7g-1" value="User Management" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="340" y="75" width="120" height="70" as="geometry" />
+          <mxGeometry x="330" y="74.09" width="120" height="65.91" as="geometry" />
         </mxCell>
         <mxCell id="d265B7_nfDngWB5c3X7g-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d265B7_nfDngWB5c3X7g-3" target="d265B7_nfDngWB5c3X7g-68" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -41,6 +41,21 @@
         <mxCell id="d265B7_nfDngWB5c3X7g-151" value="Sents Finalize Report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d265B7_nfDngWB5c3X7g-150" vertex="1" connectable="0">
           <mxGeometry x="-0.0091" y="-3" relative="1" as="geometry">
             <mxPoint x="31" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="d265B7_nfDngWB5c3X7g-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.77" y="267.73" as="sourcePoint" />
+            <mxPoint x="680" y="83.42000000000004" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="461" y="268" />
+              <mxPoint x="461" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-11" value="View Delivery Methods" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V4_eey3QWRY52hsoShrY-8">
+          <mxGeometry x="0.315" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d265B7_nfDngWB5c3X7g-3" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -148,6 +163,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d265B7_nfDngWB5c3X7g-6" target="d265B7_nfDngWB5c3X7g-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-19" value="Can view Past Purchase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V4_eey3QWRY52hsoShrY-18">
+          <mxGeometry x="-0.4564" y="-2" relative="1" as="geometry">
+            <mxPoint x="104" y="-52" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d265B7_nfDngWB5c3X7g-6" value="Order Management" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-60" y="250" width="110" height="60" as="geometry" />
         </mxCell>
@@ -188,9 +211,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d265B7_nfDngWB5c3X7g-91" value="Store Sales Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d265B7_nfDngWB5c3X7g-90" vertex="1" connectable="0">
+        <mxCell id="d265B7_nfDngWB5c3X7g-91" value="Store Sales Data&lt;div&gt;Including address&lt;/div&gt;&lt;div&gt;contact and&amp;nbsp;&lt;/div&gt;&lt;div&gt;dispatching&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d265B7_nfDngWB5c3X7g-90" vertex="1" connectable="0">
           <mxGeometry x="0.1385" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d265B7_nfDngWB5c3X7g-8" value="Sales management" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -201,6 +224,22 @@
         </mxCell>
         <mxCell id="d265B7_nfDngWB5c3X7g-129" value="Payment Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d265B7_nfDngWB5c3X7g-127" vertex="1" connectable="0">
           <mxGeometry x="-0.2683" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759.9998792414917" y="299.58692307692286" as="sourcePoint" />
+            <mxPoint x="-22.5" y="34.51" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="300" />
+              <mxPoint x="890" y="-66" />
+              <mxPoint x="-23" y="-66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-16" value="Compare the price details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V4_eey3QWRY52hsoShrY-15">
+          <mxGeometry x="0.3726" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -247,6 +286,21 @@
         <mxCell id="d265B7_nfDngWB5c3X7g-104" value="give bills" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d265B7_nfDngWB5c3X7g-103" vertex="1" connectable="0">
           <mxGeometry x="-0.4312" y="2" relative="1" as="geometry">
             <mxPoint x="-28" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d265B7_nfDngWB5c3X7g-11" target="d265B7_nfDngWB5c3X7g-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="820" />
+              <mxPoint x="-280" y="820" />
+              <mxPoint x="-280" y="230" />
+              <mxPoint x="-25" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-7" value="Add Product" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V4_eey3QWRY52hsoShrY-4">
+          <mxGeometry x="-0.2099" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d265B7_nfDngWB5c3X7g-11" value="Suppilers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -306,7 +360,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d265B7_nfDngWB5c3X7g-34" value="get stocks order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d265B7_nfDngWB5c3X7g-33" vertex="1" connectable="0">
+        <mxCell id="d265B7_nfDngWB5c3X7g-34" value="view purchase stocks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d265B7_nfDngWB5c3X7g-33" vertex="1" connectable="0">
           <mxGeometry x="0.1507" y="6" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
