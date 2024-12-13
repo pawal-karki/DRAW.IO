@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="GkMcADFs1Jpfnip-NJ-y">
-    <mxGraphModel dx="2799" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="2285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,7 +344,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d265B7_nfDngWB5c3X7g-28" value="Get Purchase Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d265B7_nfDngWB5c3X7g-27" vertex="1" connectable="0">
+        <mxCell id="d265B7_nfDngWB5c3X7g-28" value="Get Purchase Details(Past/Current)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d265B7_nfDngWB5c3X7g-27" vertex="1" connectable="0">
           <mxGeometry x="0.1112" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -680,6 +680,19 @@
         </mxCell>
         <mxCell id="d265B7_nfDngWB5c3X7g-161" value="6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="520" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.602;entryY=1.074;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d265B7_nfDngWB5c3X7g-85" target="d265B7_nfDngWB5c3X7g-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="350" />
+              <mxPoint x="402" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4_eey3QWRY52hsoShrY-21" value="get sales data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V4_eey3QWRY52hsoShrY-20">
+          <mxGeometry x="0.1985" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
