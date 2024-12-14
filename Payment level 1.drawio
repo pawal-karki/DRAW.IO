@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="VgyHKtFtU2tmYjoULsuM">
-    <mxGraphModel dx="1603" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,7 +321,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yozoq3qJvYod0-rAo0nc-67" value="Stores Supplier Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yozoq3qJvYod0-rAo0nc-64" vertex="1" connectable="0">
+        <mxCell id="yozoq3qJvYod0-rAo0nc-67" value="Sends Supplier Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yozoq3qJvYod0-rAo0nc-64" vertex="1" connectable="0">
           <mxGeometry x="0.2468" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
