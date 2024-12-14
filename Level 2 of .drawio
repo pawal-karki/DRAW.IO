@@ -108,7 +108,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zEUHhoX89FtOKZPr6LKg-24" value="purchase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="zEUHhoX89FtOKZPr6LKg-24" value="Purchase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zEUHhoX89FtOKZPr6LKg-25" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
