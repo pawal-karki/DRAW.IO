@@ -113,7 +113,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K-M10pQ7JDTs8JRQ7MjD-23" value="Sales" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="K-M10pQ7JDTs8JRQ7MjD-23" value="Sale" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K-M10pQ7JDTs8JRQ7MjD-28" value="Payment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
