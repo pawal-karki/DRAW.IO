@@ -75,7 +75,7 @@
         </mxCell>
         <mxCell id="1RAJI8hPIHJRJfzqPvRJ-43" value="Valid Purchase Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1RAJI8hPIHJRJfzqPvRJ-41">
           <mxGeometry x="-0.0101" y="-4" relative="1" as="geometry">
-            <mxPoint x="-14" y="-6" as="offset" />
+            <mxPoint x="-19" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1RAJI8hPIHJRJfzqPvRJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1RAJI8hPIHJRJfzqPvRJ-30" target="1RAJI8hPIHJRJfzqPvRJ-50">
@@ -130,7 +130,7 @@
         <mxCell id="1RAJI8hPIHJRJfzqPvRJ-44" value="Inventory Checking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="270" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1RAJI8hPIHJRJfzqPvRJ-48" value="Create Purchaser Order and Also record it in a database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1RAJI8hPIHJRJfzqPvRJ-48" value="Create Purchase Order and Also record it in a database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="440" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1RAJI8hPIHJRJfzqPvRJ-50" value="Customer Request For Purchase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -152,6 +152,12 @@
         </mxCell>
         <mxCell id="1RAJI8hPIHJRJfzqPvRJ-58" value="Supplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1RAJI8hPIHJRJfzqPvRJ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1RAJI8hPIHJRJfzqPvRJ-74" target="1RAJI8hPIHJRJfzqPvRJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1RAJI8hPIHJRJfzqPvRJ-74" value="Root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
