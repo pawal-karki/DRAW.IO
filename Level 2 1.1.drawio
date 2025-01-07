@@ -160,7 +160,7 @@
         </mxCell>
         <mxCell id="6pQfEWJAAGMHUiOHt3Cx-29" value="Request Order Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6pQfEWJAAGMHUiOHt3Cx-28" vertex="1" connectable="0">
           <mxGeometry x="0.2366" y="-2" relative="1" as="geometry">
-            <mxPoint x="18" as="offset" />
+            <mxPoint x="17" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6pQfEWJAAGMHUiOHt3Cx-36" value="1.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
