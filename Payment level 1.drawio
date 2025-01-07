@@ -71,7 +71,7 @@
         </mxCell>
         <mxCell id="i3iBYDDjZ0H8fndBfA5B-10" value="Retrieves Purchase Data&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="i3iBYDDjZ0H8fndBfA5B-9" vertex="1" connectable="0">
           <mxGeometry x="-0.1471" y="-3" relative="1" as="geometry">
-            <mxPoint x="-13" y="-6" as="offset" />
+            <mxPoint x="-7" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yozoq3qJvYod0-rAo0nc-8" value="Purchase" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -323,7 +323,7 @@
         </mxCell>
         <mxCell id="yozoq3qJvYod0-rAo0nc-69" value="request supplier details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="yozoq3qJvYod0-rAo0nc-68" vertex="1" connectable="0">
           <mxGeometry x="-0.2238" y="1" relative="1" as="geometry">
-            <mxPoint x="-33" y="9" as="offset" />
+            <mxPoint x="75" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yozoq3qJvYod0-rAo0nc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.831;entryY=-0.081;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" parent="1" source="yozoq3qJvYod0-rAo0nc-70" target="yozoq3qJvYod0-rAo0nc-8" edge="1">
