@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.4">
   <diagram name="Page-1" id="Ul5-LBto5dhorNfV26UV">
-    <mxGraphModel dx="1042" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
         </mxCell>
         <mxCell id="Gq8MpkualemQJBXAmug--15" value="Assigns specific role" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gq8MpkualemQJBXAmug--14" vertex="1" connectable="0">
           <mxGeometry x="0.4388" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gq8MpkualemQJBXAmug--5" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -146,7 +146,7 @@
         </mxCell>
         <mxCell id="Gq8MpkualemQJBXAmug--28" value="gives user data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gq8MpkualemQJBXAmug--25" vertex="1" connectable="0">
           <mxGeometry x="-0.0784" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gq8MpkualemQJBXAmug--19" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -175,7 +175,7 @@
         </mxCell>
         <mxCell id="Gq8MpkualemQJBXAmug--24" value="Stores user Credentials" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gq8MpkualemQJBXAmug--23" vertex="1" connectable="0">
           <mxGeometry x="-0.0729" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gq8MpkualemQJBXAmug--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.035;entryY=1.121;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Gq8MpkualemQJBXAmug--4" target="Gq8MpkualemQJBXAmug--19" edge="1">
@@ -188,7 +188,7 @@
         </mxCell>
         <mxCell id="Gq8MpkualemQJBXAmug--30" value="Stores assigned role" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gq8MpkualemQJBXAmug--29" vertex="1" connectable="0">
           <mxGeometry x="-0.0997" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gq8MpkualemQJBXAmug--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.967;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Gq8MpkualemQJBXAmug--6" target="Gq8MpkualemQJBXAmug--2" edge="1">
