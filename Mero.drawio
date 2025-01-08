@@ -150,7 +150,7 @@
           <mxGeometry x="350" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9hTT-3QMh48o3hA_7Nlj-39" value="Sends Purchase Report" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="381" width="130" height="30" as="geometry" />
+          <mxGeometry x="560" y="340" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
