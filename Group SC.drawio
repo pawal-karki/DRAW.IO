@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.4">
   <diagram name="Page-1" id="KICizQ0xmFcay248bjg3">
-    <mxGraphModel dx="2911" dy="2299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2722" dy="2196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,10 +14,10 @@
           <mxGeometry x="330" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8peEFKOhnlwPGsy8Juil-4" value="Purchase Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="-10" y="120.75999999999999" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8peEFKOhnlwPGsy8Juil-5" value="Report Preparation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="972.75" y="87.49999999999999" width="120" height="40" as="geometry" />
+          <mxGeometry x="972.75" y="108.75999999999999" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8peEFKOhnlwPGsy8Juil-6" value="Real Time Stock Update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="965.25" y="510" width="120" height="40" as="geometry" />
